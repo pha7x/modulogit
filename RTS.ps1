@@ -63,10 +63,6 @@ catch
     exit
 }
 
-
-# Function to be called to generate the response file to RTS
-$Global:ResponseGenerationFunction = "GenericWriteResponse"
-# Setup the MII suite names and load extra scripts
 switch ($Global:OperationPhase)
 {
     "Label" {
