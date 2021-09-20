@@ -1,1 +1,1 @@
-poiioadaosdioasd
+puts meu amigo
